@@ -1,0 +1,13 @@
+C:\Users\cutth\Desktop\SpiderHeck Mods\NoLava\NoLava\NoLava\bin\Release\NoLava.dll
+C:\Users\cutth\Desktop\SpiderHeck Mods\NoLava\NoLava\NoLava\bin\Release\NoLava.pdb
+C:\Users\cutth\Desktop\SpiderHeck Mods\NoLava\NoLava\NoLava\bin\Release\0Harmony.dll
+C:\Users\cutth\Desktop\SpiderHeck Mods\NoLava\NoLava\NoLava\bin\Release\BepInEx.dll
+C:\Users\cutth\Desktop\SpiderHeck Mods\NoLava\NoLava\NoLava\bin\Release\MyScriptAssembly.dll
+C:\Users\cutth\Desktop\SpiderHeck Mods\NoLava\NoLava\NoLava\bin\Release\UnityEngine.CoreModule.dll
+C:\Users\cutth\Desktop\SpiderHeck Mods\NoLava\NoLava\NoLava\bin\Release\UnityEngine.dll
+C:\Users\cutth\Desktop\SpiderHeck Mods\NoLava\NoLava\NoLava\bin\Release\UnityEngine.InputLegacyModule.dll
+C:\Users\cutth\Desktop\SpiderHeck Mods\NoLava\NoLava\NoLava\obj\Release\NoLava.csproj.CoreCompileInputs.cache
+C:\Users\cutth\Desktop\SpiderHeck Mods\NoLava\NoLava\NoLava\obj\Release\NoLava.csproj.CopyComplete
+C:\Users\cutth\Desktop\SpiderHeck Mods\NoLava\NoLava\NoLava\obj\Release\NoLava.dll
+C:\Users\cutth\Desktop\SpiderHeck Mods\NoLava\NoLava\NoLava\obj\Release\NoLava.pdb
+C:\Users\cutth\Desktop\SpiderHeck Mods\NoLava\NoLava\NoLava\bin\Release\UnityEngine.Physics2DModule.dll
