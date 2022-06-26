@@ -18,8 +18,4 @@
      <PackageReference Include="SpiderHeck.GameLibs" Version="$(GameVersion)" PrivateAssets="all" />
      <PackageReference Include="UnityEngine.Modules" Version="2020.3.13" PrivateAssets="all" />
    </ItemGroup>   
-  <ItemGroup>
-    <Compile Include="NoLava.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
 </Project>
