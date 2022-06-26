@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <LangVersion>latest</LangVersion>
@@ -9,8 +8,9 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <Description>NoLava</Description>
     <Version>1.0.2</Version>
-    <GameVersion>0.86.2-r.0</GameVersion>
   </PropertyGroup>
+  <PropertyGroup>
+    <GameVersion>0.86.2-r.0</GameVersion>
   <ItemGroup>
      <PackageReference Include="BepInEx.Unity" Version="6.0.0-be.554" PrivateAssets="all" />
      <PackageReference Include="BepInEx.AutoPlugin" Version="1.0.1" PrivateAssets="all" />
@@ -21,5 +21,4 @@
     <Compile Include="NoLava.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
