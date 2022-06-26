@@ -11,6 +11,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <GameVersion>0.86.2-r.0</GameVersion>
+  </PropertyGroup>  
   <ItemGroup>
      <PackageReference Include="BepInEx.Unity" Version="6.0.0-be.554" PrivateAssets="all" />
      <PackageReference Include="BepInEx.AutoPlugin" Version="1.0.1" PrivateAssets="all" />
